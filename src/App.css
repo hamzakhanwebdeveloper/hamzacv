@@ -1,0 +1,46 @@
+.main {
+  display: flex;
+  margin-left: 20%;
+}
+.leftsection {
+  border-right: 2px solid black;
+  width: 20%;
+  padding-left: 20px;
+  border-left: 2px solid black;
+  background-color: rgb(171, 169, 168);
+}
+.cvHeading {
+  font-size: 100px;
+  margin: 0%;
+  color: rgb(37, 41, 58);
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+.rightsection {
+  border-right: 2px solid black;
+  width: 40%;
+  margin-left: px;
+  background-color: rgb(214, 215, 228);
+
+  /* color: rgb(237, 225, 225); */
+}
+.rightsection .headings {
+  margin: 5px;
+  /* background-color: rgb(215, 212, 212); */
+  color: rgb(38, 38, 100);
+}
+.rightsection h5 {
+  margin: 10px;
+}
+.rightsection2 {
+  margin-left: 15px;
+}
+.name {
+  color: rgb(38, 38, 100);
+  font-size: 40px;
+}
+.para {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
